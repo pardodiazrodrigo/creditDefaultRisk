@@ -1,0 +1,4 @@
+venv
+dataset
+.pytest_cache
+.vscode
